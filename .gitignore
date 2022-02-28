@@ -1,0 +1,8 @@
+data/preprocessed/
+data/skeletons/
+
+ResGCNv1_bup/
+EfficientGCNv1_bup/
+
+ResGCNv1/workdir
+EfficientGCNv1/workdir
