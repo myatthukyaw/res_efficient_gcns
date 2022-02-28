@@ -1,0 +1,19 @@
+[ 2022-02-28 14:11:16,171 ] Saving folder path: ./workdir/2001_custom_EfficientGCN-B4_my_dataset/2022-02-28 14-11-16
+[ 2022-02-28 14:11:16,171 ] 
+[ 2022-02-28 14:11:16,171 ] Starting preparing ...
+[ 2022-02-28 14:11:16,174 ] Saving model name: 2001_custom_EfficientGCN-B4_my_dataset
+[ 2022-02-28 14:11:16,221 ] GPU-0 used: 389.1875MB
+[ 2022-02-28 14:11:16,228 ] Dataset: my_dataset
+[ 2022-02-28 14:11:16,229 ] Batch size: train-1, eval-1
+[ 2022-02-28 14:11:16,229 ] Data shape (branch, channel, frame, joint, person): [3, 4, 1000, 18, 1]
+[ 2022-02-28 14:11:16,229 ] Number of action classes: 5
+[ 2022-02-28 14:11:16,311 ] Model: EfficientGCN-B4 {'stem_channel': 64, 'block_args': [[48, 1, 0.5], [24, 1, 0.5], [64, 2, 1], [128, 2, 1]], 'fusion_stage': 2, 'act_type': 'swish', 'att_type': 'stja', 'layer_type': 'Sep', 'drop_prob': 0.25, 'kernel_size': [5, 2], 'scale_args': [1.2, 1.35], 'expand_ratio': 2, 'reduct_ratio': 4, 'bias': True, 'edge': True}
+[ 2022-02-28 14:11:17,203 ] Model profile: 19.03G FLOPs and 2.02M Parameters
+[ 2022-02-28 14:11:22,002 ] Optimizer: SGD {'lr': 0.1, 'momentum': 0.9, 'nesterov': True, 'weight_decay': 0.0001}
+[ 2022-02-28 14:11:22,002 ] LR_Scheduler: cosine {'max_epoch': 70, 'warm_up': 10}
+[ 2022-02-28 14:11:22,002 ] Loss function: CrossEntropyLoss
+[ 2022-02-28 14:11:22,002 ] Successful!
+[ 2022-02-28 14:11:22,003 ] 
+[ 2022-02-28 14:11:22,003 ] Loading evaluating model ...
+[ 2022-02-28 14:11:22,263 ] Making predictions on random generated data
+[ 2022-02-28 14:11:56,952 ] Average prediction time : 0.6937522363662719

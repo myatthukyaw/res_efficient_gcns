@@ -1,0 +1,5 @@
+[ 2022-02-28 01:51:45,784 ] Saving folder path: ./workdir/2001_custom_EfficientGCN-B4_zensho/2022-02-28 01-51-45
+[ 2022-02-28 01:51:45,785 ] 
+[ 2022-02-28 01:51:45,785 ] Starting preparing ...
+[ 2022-02-28 01:51:45,787 ] Saving model name: 2001_custom_EfficientGCN-B4_zensho
+[ 2022-02-28 01:51:45,787 ] Using CPU!

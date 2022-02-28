@@ -1,0 +1,7 @@
+[ 2022-02-28 01:52:20,050 ] Saving folder path: ./workdir/2001_custom_EfficientGCN-B4_my_dataset/2022-02-28 01-52-20
+[ 2022-02-28 01:52:20,050 ] 
+[ 2022-02-28 01:52:20,050 ] Starting preparing ...
+[ 2022-02-28 01:52:20,052 ] Saving model name: 2001_custom_EfficientGCN-B4_my_dataset
+[ 2022-02-28 01:52:20,052 ] Using CPU!
+[ 2022-02-28 01:52:20,052 ] 
+[ 2022-02-28 01:52:20,052 ] Error: Do NOT exist this dataset: my_dataset!

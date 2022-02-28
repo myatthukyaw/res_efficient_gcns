@@ -1,0 +1,8 @@
+[ 2022-02-28 01:53:07,627 ] Saving folder path: ./workdir/2001_custom_EfficientGCN-B4_my_dataset/2022-02-28 01-53-07
+[ 2022-02-28 01:53:07,627 ] 
+[ 2022-02-28 01:53:07,627 ] Starting preparing ...
+[ 2022-02-28 01:53:07,630 ] Saving model name: 2001_custom_EfficientGCN-B4_my_dataset
+[ 2022-02-28 01:53:07,630 ] Using CPU!
+[ 2022-02-28 01:53:07,631 ] 
+[ 2022-02-28 01:53:07,631 ] Error: Wrong in loading data files: ../preprocessed/my_dataset_EfficientGCN/train_data.npy or ../preprocessed/my_dataset_EfficientGCN/train_label.pkl!
+[ 2022-02-28 01:53:07,631 ] Please generate data first!
